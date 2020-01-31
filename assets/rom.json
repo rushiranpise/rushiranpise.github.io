@@ -23,28 +23,4 @@
             }
         ]
     }
-     {
-        "romName": "Social Media",
-        "path": "socialmedia",
-        "deviceData": [
-            {
-                "name": "Telegram",
-                "builds": [
-                    {
-                        "name": "Telegram in",
-                        "url": "https://goo.gl/CuFKPu"
-                    }
-                ]
-            },
-            {
-                "name": "santoni",
-                "builds": [
-                    {
-                        "name": "Bliss-v11.3-Stable-santoni-UNOFFICIAL-20181216-2154.zip",
-                        "url": "https://goo.gl/F2GAZC"
-                    }
-                ]
-            }
-        ]
-    }
 ]
