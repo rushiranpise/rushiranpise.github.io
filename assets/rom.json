@@ -1,13 +1,13 @@
 [
     {
-        "romName": "BlissROMs",
-        "path": "bliss",
+        "romName": "Social Media",
+        "path": "socialmedia",
         "deviceData": [
             {
-                "name": "mido",
+                "name": "Telegram",
                 "builds": [
                     {
-                        "name": "Bliss-v11.3-Stable-mido-UNOFFICIAL-20181211-0726.zip",
+                        "name": "Telegram in",
                         "url": "https://goo.gl/CuFKPu"
                     }
                 ]
