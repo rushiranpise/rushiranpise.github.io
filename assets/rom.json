@@ -23,4 +23,28 @@
             }
         ]
     }
+    {
+        "romName": "SociaMedia",
+        "path": "socialmedi",
+        "deviceData": [
+            {
+                "name": "Telegrm",
+                "builds": [
+                    {
+                        "name": "Telegra in",
+                        "url": "https://goo.gl/CuFKPu"
+                    }
+                ]
+            },
+            {
+                "name": "santni",
+                "builds": [
+                    {
+                        "name": "Bliss-v11.3-Stable-santoni-UNOFFICIAL-20181216-2154.zip",
+                        "url": "https://goo.gl/F2GAZC"
+                    }
+                ]
+            }
+        ]
+    }
 ]
