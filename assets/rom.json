@@ -54,7 +54,9 @@
                     {
                         "name": "Tweet Tweet",
                         "url": "https://twitter.com/RanpiseRushi"
-                    },
+                    }
+]
+},
                     {
                 "name": "Gmail",
                 "builds": [
@@ -62,6 +64,8 @@
                         "name": "Wanna Go Old School?",
                         "url": "rushiranpise17@gmail.com"
                     }
+]
+},
                     {
                 "name": "Phone",
                 "builds": [
