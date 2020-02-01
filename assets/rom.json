@@ -1,32 +1,73 @@
 [
     {
-        "romName": "Social Media",
-        "path": "socialmedia",
+        "romName": "Contact Me?",
+        "path": "contactinfo",
         "deviceData": [
             {
-                "name": "Telegram",
+                "name": "Google",
                 "builds": [
                     {
-                        "name": "Telegram in",
-                        "url": "https://goo.gl/CuFKPu"
+                        "name": "Search Me?",
+                        "url": "https://lmgtfy.com/?q=Rushi+Ranpise&s=g&iie=1"
                     }
                 ]
             },
             {
-                "name": "Teleram",
+                "name": "XDA-Developers",
                 "builds": [
                     {
-                        "name": "Telegrm in",
-                        "url": "https://goo.gl/CuFKPu"
+                        "name": "Visit My Profile?",
+                        "url": "https://forum.xda-developers.com/member.php?u=8323951"
                     }
                 ]
             },
             {
-                "name": "santoni",
+                "name": "GitHub",
                 "builds": [
                     {
-                        "name": "Bliss-v11.3-Stable-santoni-UNOFFICIAL-20181216-2154.zip",
-                        "url": "https://goo.gl/F2GAZC"
+                        "name": "My Codes?",
+                        "url": "https://github.com/rushiranpise"
+                    }
+                ]
+            },
+            {
+                "name": "Whatsapp",
+                "builds": [
+                    {
+                        "name": "Whatsapp Me?",
+                        "url": "https://api.whatsapp.com/send?phone=919764640394&text=Hey%20there!%20%20I%20came%20from%20your%20website"
+                    }
+                ]
+            },
+            {
+                "name": "Instagram",
+                "builds": [
+                    {
+                        "name": "DM Me?",
+                        "url": "https://www.instagram.com/rushiranpise"
+                    }
+                ]
+            },
+            {
+                "name": "Twitter",
+                "builds": [
+                    {
+                        "name": "Tweet Tweet",
+                        "url": "https://twitter.com/RanpiseRushi"
+                    },
+                    {
+                "name": "Gmail",
+                "builds": [
+                    {
+                        "name": "Wanna Go Old School?",
+                        "url": "rushiranpise17@gmail.com"
+                    }
+                    {
+                "name": "Phone",
+                "builds": [
+                    {
+                        "name": "Wanna Call Me?",
+                        "url": "tel:+919764640394"
                     }
                 ]
             }
