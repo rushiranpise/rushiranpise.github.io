@@ -24,31 +24,3 @@
         ]
     }
 ]
-[
-    {
-        "romName": "Socia Media",
-        "path": "socialedia",
-        "deviceData": [
-            {
-                "name": "Telgram",
-                "builds": [
-                    {
-                        "name": "Tele
-gram in",
-                        "url": "https://goo.gl/CuFKPu"
-                    }
-                ]
-            },
-            {
-                "name": "sanoni",
-                "builds": [
-                    {
-                        "name": "Bliss-v11.3-Stable-santoni-UNOFFICIAL-20181216-2154.zip",
-                        "url": "https://goo.gl/F2GAZC"
-                    }
-                ]
-            }
-        ]
-    }
-]
-
