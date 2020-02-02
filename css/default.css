@@ -20,15 +20,15 @@ line-height:18px;
 position:absolute;
 top:50%;
 left:100%;
-margin:-340px 0 0 -450px;
-width:500px;
-height:500px;
+margin:0px 0 0 0px;
+width:100px;
+height:100px;
 }
 
 .legend {
 float:left;
-width:250px;
-margin-top:140px;
+width:200px;
+margin-top:100px;
 }
 
 #content h1 {
@@ -112,8 +112,9 @@ text-align:center;
 
 #diagram {
 float:right;
-width:600px;
-height:600px;
+width:100px;
+height:100px;
+  position:relative;
 }
 
 .get {
@@ -131,6 +132,7 @@ color:#333;
 @media screen and (min-width: 900px) {
   #content{
   top=100%;
+    position:relative;
     
     
   }
