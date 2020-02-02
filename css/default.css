@@ -19,10 +19,10 @@ line-height:18px;
 #content {
 position:absolute;
 top:50%;
-left:50%;
+left:100%;
 margin:-340px 0 0 -450px;
-width:900px;
-height:600px;
+width:500px;
+height:500px;
 }
 
 .legend {
@@ -128,4 +128,11 @@ a {
 text-decoration:none;
 color:#333;
 }
+@media screen and (min-width: 900px) {
+  #content{
+  top=100%;
+    
+    
+  }
+  }
 
